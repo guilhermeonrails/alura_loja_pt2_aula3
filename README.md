@@ -1,24 +1,9 @@
-# README
+# Aula 3 - Lidando com permissões e atualização
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Curso de Ruby on Rails 5 - Parte 2
 
-Things you may want to cover:
+Para executar o projeto após o download, execute no terminal os seguintes comandos:
 
-* Ruby version
+* bundle install
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* rails db:migrate
